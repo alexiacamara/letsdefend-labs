@@ -25,7 +25,7 @@ Aprender a realizar pesquisas práticas em sistemas de gestão de registos (*Log
 
 ## 📂 Conteúdo
 
-- — Documentação das perguntas, evidências em imagem (*prints*) e espaço para preenchimento das respostas.
+- [Documentação - Laboratório LetsDefend](lab-log-management.md)
 
 ---
 
