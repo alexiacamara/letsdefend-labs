@@ -6,7 +6,7 @@ Este repositório contém a documentação prática e a resolução das questõe
 
 ## 🎯 Objetivo do Laboratório
 
-Aprender a realizar pesquisas práticas em sistemas de gestão de registos (*Log Management* / SIEM) para:
+Aprender a realizar pesquisas práticas em sistemas de gestão de registros (*Log Management* / SIEM) para:
 - Filtrar e identificar endereços IP de origem (`SRC ADDRESS`).
 - Analisar tipos de eventos e protocolos (`TYPE`).
 - Localizar conexões através de portas de destino (`DEST PORT`) e URLs.
